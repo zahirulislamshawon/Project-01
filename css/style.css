@@ -1,0 +1,177 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    color: black;
+}
+
+img {
+    max-width: 100%;
+}
+
+.heroBanner {
+    background-image: url("../images/project 01 image 01.jpg");
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px 91%;
+    padding: 0px 50px;
+    background-blend-mode: hue;
+    background-color: rgba(165, 196, 163, 0.5);
+    margin: 40px;
+}
+
+.bannerContent {
+    max-width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 80px 200px;
+}
+
+.bannerContent h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.bannerContent p {
+    font-size: 26px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 0px 37px;
+}
+
+.bannerContent a {
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+    box-shadow: rgb(247, 235, 235) 0px 0px 0px 2px;
+    padding: 10px 25px;
+}
+
+.blog01 {
+    margin: 0px 150px;
+    padding: 40px 20px;
+}
+
+.blog01Container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 0px;
+}
+
+.column01 {
+    flex-basis: 50%;
+    padding: 0px 50px 0px 0px;
+}
+
+.column02 {
+    flex-basis: 50%;
+}
+
+.column01 h2 {
+    font-size: 25px;
+    padding: 0px;
+}
+
+.column01 p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.blog02 {
+    margin: 0px 150px;
+    padding: 40px 20px;
+}
+
+.blog02Container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 0px;
+}
+
+.column03 {
+    flex-basis: 50%;
+    padding: 0px 50px 0px 0px;
+}
+
+.column04 {
+    flex-basis: 50%;
+}
+
+.column04 h2 {
+    font-size: 25px;
+    padding: 0px;
+}
+
+.column04 p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.knowledge {
+    background-image: url("../images/project 01 image 04.jpg");
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px 91%;
+    padding: 0px 50px;
+    background-blend-mode: hue;
+    background-color: rgba(181, 200, 172, 0.38);
+    margin: 40px;
+}
+
+.knowledgeContent {
+    max-width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 143px 200px;
+}
+
+.knowledgeContent h1 {
+    font-size: 36px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.knowledgeContent p {
+    font-size: 20px;
+    margin-bottom: 50px;
+    color: white;
+    padding: 0px 119px;
+}
+
+.knowledgeContent a {
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+    box-shadow: rgb(247, 235, 235) 0px 0px 0px 2px;
+    padding: 5px 28px;
+}
+
+.search {
+    height: 26vh;
+    margin: auto;
+    box-shadow: 0px -5px 3px 0px;
+    color: #25252ab3;
+    padding-top: 25px;
+}
+
+.searchContent {
+    margin: 0px auto;
+    text-align: center;
+    background-color: rgba(233, 225, 231, 0.41);
+    max-width: 1827px;
+    padding: 63px;
+}
+
+.searchContent h3 {
+}
+
+.searchContent p {
+    font-size: 20px;
+    color: black;
+    padding: 14px 119px;
+}
